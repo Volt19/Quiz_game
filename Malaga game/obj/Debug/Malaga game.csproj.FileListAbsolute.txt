@@ -1,0 +1,26 @@
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\bin\Debug\Malaga game.exe.config
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\bin\Debug\Malaga game.exe
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\bin\Debug\Malaga game.pdb
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga game.csproj.AssemblyReference.cache
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga_game.Form1.resources
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga_game.Properties.Resources.resources
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga game.csproj.GenerateResource.cache
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga game.csproj.CoreCompileInputs.cache
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga game.exe
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga game.pdb
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga_game.Form2.resources
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga_game.Form3.resources
+C:\Users\Veli_\source\repos\Malaga game\Malaga game\obj\Debug\Malaga_game.Form4.resources
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\bin\Debug\Malaga game.exe.config
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\bin\Debug\Malaga game.exe
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\bin\Debug\Malaga game.pdb
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga game.csproj.AssemblyReference.cache
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga_game.Form1.resources
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga_game.Form2.resources
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga_game.Form3.resources
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga_game.Form4.resources
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga_game.Properties.Resources.resources
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga game.csproj.GenerateResource.cache
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga game.csproj.CoreCompileInputs.cache
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga game.exe
+C:\Users\Veli_\source\repos\Malaga-game-\Malaga game\obj\Debug\Malaga game.pdb
